@@ -1,0 +1,16 @@
+{
+  "name": "rembow",
+  "version": "2.0.1",
+  "description": "A Discord bot that allows users to choose their own role color",
+  "main": "index.js",
+  "repository": "https://github.com/tykl4/rembow",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tykl4",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "colornames": "^1.1.1",
+    "discord.js": "^12.5.1"
+  }
+}
